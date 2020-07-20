@@ -1,5 +1,5 @@
 // Lines containing System.out.xxxxx commented below can be uncommented 
-// and be used to see how the program is working
+// and might give an insight on how the program is working
 
 // Importing Libraries
 import java.io.BufferedReader;
